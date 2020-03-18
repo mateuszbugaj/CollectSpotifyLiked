@@ -68,6 +68,9 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -77,6 +80,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectId" id="1ZFtPfoSxc6TCzkZalf0yVSkKkA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -247,22 +251,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584540414329" />
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1584546284455">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1584554039958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584546284455" />
-    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1584546284454">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584554039958" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1584554039958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584546284454" />
-    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1584546284454">
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584554039958" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1584554039957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584546284454" />
-    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1584546284454">
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584554039957" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1584554039958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584546284454" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1584554039958" />
     <state x="240" y="80" width="1296" height="851" key="SettingsEditor" timestamp="1584541436384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
